@@ -4,7 +4,7 @@
 #include <time.h>
 #include <unistd.h>
 #include <pthread.h>
-
+//English only
 char los;
 void* losowanie() //losowanie p-papier, k-kamien, n-nozyce
 {
